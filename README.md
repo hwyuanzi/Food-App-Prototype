@@ -32,6 +32,18 @@ Ryan Lu (<https://github.com/CHEology>)
 2. **Forgetting the names of small, great restaurants:** Frequently forgets the names of small, "hole-in-the-wall" spots he visite or forgets specifically what he ordered from these spots that he liked so much (ex: Vincent mentioned that he recently tried a burrito spot in the West Village that was cheap and great but couldn't remember the name of it and therefore can't go there again).
 
 
+### Stakeholder 2: Traveler
+**Name:** Ved Mistry <br>
+**Demographic:** Recent UC Berkeley graduate living in the Bay Area and ocassionally visiting NYC
+
+**Goals and Needs:**
+1. **See portion sizes ahead of time:** Needs to see user-uploaded photos of specific dishes to be able to see whether the retaurant has large portion sizes or not so he can get more bang for his buck.
+2. **Share dining history:** Wants to be able to create a comprehensive dining history that he can share with his friends from the Bay for future NYC trips.
+
+**Problems and Frustrations:**
+1. **Indecisiveness** Frustrated by walking around dense food neighborhoods in NYC and being overwhelmed by options without knowing which specific dishes are must-haves in the limited time he usually has in the city.
+2. **Mismatch between pictures and restaurant names:** Dislikes having his camera roll filled with random photos without being able to tell where he had a specific food.
+
 ## Product Vision Statement
 
 Your personal journal for NYC’s best Asian eats - dish by dish, and not just place by place.
